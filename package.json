@@ -2,8 +2,6 @@
   "name": "react-html-parser",
   "version": "2.0.2",
   "description": "Parse HTML into React components",
-  "main": "lib/index.js",
-  "jsnext:main": "src/index.js",
   "scripts": {
     "clean": "rimraf coverage dist lib",
     "check": "npm run lint && npm run test",
