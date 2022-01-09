@@ -59,6 +59,7 @@
     "webpack": "^1.13.0"
   },
   "dependencies": {
+    "events": "^3.3.0",
     "htmlparser2": "^3.9.0"
   },
   "peerDependencies": {
