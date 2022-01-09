@@ -7,3 +7,6 @@ tests.webpack.js
 webpack.config.*.js
 coverage/
 test/
+scripts/
+demo/
+src/
